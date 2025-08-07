@@ -15,8 +15,7 @@ const Navbar = () => {
           <div className="flex items-center gap-8">
             <Link to="/" className="flex items-center gap-2.5 hover:opacity-80 transition-all">
               <div className="size-9 rounded-lg bg-primary/10 flex items-center justify-center">
-                <HeartPulse className="w-24 h-24 text-pink-400 mb-6" strokeWidth={1.5}/>
-                
+               <HeartPulse className="w-5 h-5 text-pink-500" strokeWidth={2}/>
               </div>
               <h1 className="text-lg font-bold">Medi Help</h1>
             </Link>
