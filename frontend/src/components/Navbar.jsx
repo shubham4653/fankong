@@ -18,7 +18,7 @@ const Navbar = () => {
                 <HeartPulse className="w-24 h-24 text-pink-400 mb-6" strokeWidth={1.5}/>
                 //<MessageSquare className="w-5 h-5 text-primary" />
               </div>
-              <h1 className="size-10 text-lg font-bold">Medi Help</h1>
+              <h1 className="text-lg font-bold">Medi Help</h1>
             </Link>
           </div>
 
