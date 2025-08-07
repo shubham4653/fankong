@@ -145,8 +145,8 @@ const SignUpPage = () => {
       {/* right side */}
 
       <AuthImagePattern
-        title="Join our community"
-        subtitle="Connect with friends, share moments, and stay in touch with your loved ones."
+        title="Join our chat app"
+        subtitle="Connect with doctors, share your problem without any language barrier."
       />
     </div>
   );
